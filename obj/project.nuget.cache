@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oCdjHgaFTSk=",
+  "dgSpecHash": "mepJCnU0mPA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhi_t\\RiderProjects\\Crypto library\\Crypto library\\Crypto library.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Miran\\Riderprojects\\crypto_library\\Crypto library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miran\\.nuget\\packages\\libsodium\\1.0.19\\libsodium.1.0.19.nupkg.sha512",
+    "C:\\Users\\Miran\\.nuget\\packages\\nsec.cryptography\\24.4.0\\nsec.cryptography.24.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
